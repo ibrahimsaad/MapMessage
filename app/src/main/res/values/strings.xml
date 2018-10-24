@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapMessage</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="all">All</string>
+</resources>
